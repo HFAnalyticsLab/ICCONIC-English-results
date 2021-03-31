@@ -1,0 +1,30 @@
+sheetorder,cond
+CHF (%),chf
+COPD (%),cpd
+Depression (%),depression
+Diabetes (uncomplicated or complicated combined) (%),diab
+Hypertension (uncomplicated or complicated combined) (%),hyperten
+Renal failure (%),renalfail
+Cardiac Arrhythmia (%),arrhythmias
+Valvular Disease (%),valvular
+Pulmonary Circulation Disorders (%),pulmcirc
+Peripheral Vascular Disorders (%),pvd
+Paralysis (%),plegia
+Other Neurological Disorders (%),neuroother
+Hypothyroidism (%),hypothyroid
+Liver Disease (%),liver
+Peptic Ulcer Disease excluding bleeding (%),pepticnonbleed
+AIDS/HIV (%),hiv
+Lymphoma (%),lymphoma
+Metastatic Cancer (%),tumourmets
+Solid Tumor without Metastasis (%),tumournonmets
+Rheumatoid Arthritis/collagen (%),rheumarth
+Coagulopathy (%),coagulopathy
+Obesity (%),obesity
+Weight Loss (%),weightloss
+Fluid and Electrolyte Disorders (%),fluid
+Blood Loss Anemia (%),anaemiabloodloss
+Deficiency Anemia (%),anaemiadeficiency
+Alcohol Abuse (%),alcoabuse
+Drug Abuse (%),drugabuse
+Psychoses (%),psychoses

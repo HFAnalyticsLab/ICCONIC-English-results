@@ -1,0 +1,45 @@
+hip_ops,OPCS,Description
+hip_op_total,W371,Primary total prosthetic replacement of hip joint using cement
+hip_op_total,W378,Other specified total prosthetic replacement of hip joint using cement
+hip_op_total,W379,Unspecified total prosthetic replacement of hip joint using cement
+hip_op_total,W381,Primary total prosthetic replacement of hip joint not using cement
+hip_op_total,W388,Other specified total prosthetic replacement of hip joint not using cement
+hip_op_total,W389,Unspecified total prosthetic replacement of hip joint not using cement
+hip_op_total,W391,Primary total prosthetic replacement of hip joint NEC
+hip_op_total,W398,Other specified other total prosthetic replacement of hip joint
+hip_op_total,W399,Unspecified other total prosthetic replacement of hip joint
+hip_op_total,W931,Primary hybrid prosthetic replacement of hip joint using cemented acetabular component
+hip_op_total,W938,Other specified hybrid prosthetic replacement of hip joint using cemented acetabular component
+hip_op_total,W939,Unspecified hybrid prosthetic replacement of hip joint using cemented acetabular component
+hip_op_total,W941,Primary hybrid prosthetic replacement of hip joint using cemented femoral component
+hip_op_total,W948,Other specified hybrid prosthetic replacement of hip joint using cemented femoral component
+hip_op_total,W949,Unspecified hybrid prosthetic replacement of hip joint using cemented femoral component
+hip_op_total,W951,Primary hybrid prosthetic replacement of hip joint using cement NEC
+hip_op_total,W958,Other specified hybrid prosthetic replacement of hip joint using cement
+hip_op_total,W959,Unspecified hybrid prosthetic replacement of hip joint using cement
+hip_op_partial,W461,Primary prosthetic replacement of head of femur using cement
+hip_op_partial,W468,Other specified prosthetic replacement of head of femur using cement
+hip_op_partial,W469,Unspecified prosthetic replacement of head of femur using cement
+hip_op_partial,W471,Primary prosthetic replacement of head of femur not using cement
+hip_op_partial,W478,Other specified prosthetic replacement of head of femur not using cement
+hip_op_partial,W479,Unspecified prosthetic replacement of head of femur not using cement
+hip_op_partial,W481,Primary prosthetic replacement of head of femur NEC
+hip_op_partial,W488,Other specified other prosthetic replacement of head of femur
+hip_op_partial,W489,Unspecified other prosthetic replacement of head of femur
+hip_op_osteopin,W191,Primary open reduction of fracture of neck of femur and open fixation using pin and plate
+hip_op_osteopin,W192,Primary open reduction of fracture of long bone and fixation using rigid nail NEC
+hip_op_osteopin,W193,Primary open reduction of fracture of long bone and fixation using flexible nail
+hip_op_osteopin,W194,Primary open reduction of fracture of short bone and fixation using screw
+hip_op_osteopin,W195,Primary open reduction of fragment of bone and fixation using screw
+hip_op_osteopin,W196,Primary open reduction of fragment of bone and fixation using wire system
+hip_op_osteopin,W198,Other specified primary open reduction of fracture of bone and intramedullary fixation
+hip_op_osteopin,W199,Unspecified primary open reduction of fracture of bone and intramedullary fixation
+hip_op_osteopin,W241,Closed reduction of intracapsular fracture of neck of femur and fixation using nail or screw
+hip_op_osteopin,W242,Closed reduction of fracture of long bone and rigid internal fixation NEC
+hip_op_osteopin,W243,Closed reduction of fracture of long bone and flexible internal fixation HFQ
+hip_op_osteopin,W244,Closed reduction of fracture of short bone and fixation using screw
+hip_op_osteopin,W245,Closed reduction of fragment of bone and fixation using screw
+hip_op_osteopin,W246,Closed reduction of fracture of bone and fixation using nail or screw
+hip_op_osteopin,W247,Closed reduction of fracture of bone and fixation using plate
+hip_op_osteopin,W248,Other specified closed reduction of fracture of bone and internal fixation
+hip_op_osteopin,W249,Unspecified closed reduction of fracture of bone and internal fixation

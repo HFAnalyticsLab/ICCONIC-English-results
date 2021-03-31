@@ -1,0 +1,66 @@
+prodcode	therapyevents	gemscriptcode	productname	drugsubstancename	substancestrength	formulation	routeofadministration	bnfcode	bnfheader	databasebuild
+5247	55763	84654020	Aricept 10mg tablets (Eisai Ltd)	Donepezil hydrochloride	10mg	Tablet	Oral	04110000	Drugs For Dementia	February 2009
+5400	28017	84653020	Aricept 5mg tablets (Eisai Ltd)	Donepezil hydrochloride	5mg	Tablet	Oral	04110000	Drugs For Dementia	February 2009
+37188	678	92625020	Aricept Evess 10mg orodispersible tablets (Eisai Ltd)	Donepezil hydrochloride	10mg	Orodispersible tablet	Oral	04110000	Drugs For Dementia	February 2009
+36848	158	92623020	Aricept Evess 5mg orodispersible tablets (Eisai Ltd)	Donepezil hydrochloride	5mg	Orodispersible tablet	Oral	04110000	Drugs For Dementia	February 2009
+48443	6366	41262020	Donepezil 10mg orodispersible tablets	Donepezil hydrochloride	10mg	Orodispersible tablet	Oral	04110000	Drugs For Dementia	January 2013
+53922	0	41263020	Donepezil 10mg orodispersible tablets (Consilient Health Ltd)	Donepezil hydrochloride	10mg	Orodispersible tablet	Oral	04110000	Drugs For Dementia	February 2013
+35088	18136	92621020	Donepezil 10mg orodispersible tablets sugar free	Donepezil hydrochloride	10mg	Orodispersible tablet	Oral	04110000	Drugs For Dementia	February 2009
+2931	705572	84649020	Donepezil 10mg tablets	Donepezil hydrochloride	10mg	Tablet	Oral	04110000	Drugs For Dementia	February 2009
+58709	0	39844020	Donepezil 10mg tablets (A A H Pharmaceuticals Ltd)	Donepezil hydrochloride	10mg	Tablet	Oral	04110000	Drugs For Dementia	January 2014
+48442	3263	41264020	Donepezil 5mg orodispersible tablets	Donepezil hydrochloride	5mg	Orodispersible tablet	Oral	04110000	Drugs For Dementia	January 2013
+35179	8916	92619020	Donepezil 5mg orodispersible tablets sugar free	Donepezil hydrochloride	5mg	Orodispersible tablet	Oral	04110000	Drugs For Dementia	February 2009
+2930	291413	84648020	Donepezil 5mg tablets	Donepezil hydrochloride	5mg	Tablet	Oral	04110000	Drugs For Dementia	February 2009
+56600	0	42200020	Donepezil 5mg tablets (Zentiva)	Donepezil hydrochloride	5mg	Tablet	Oral	04110000	Drugs For Dementia	August 2013
+11635	24145	85758020	Galantamine 12mg tablets	Galantamine hydrobromide	12mg	Tablet	Oral	04110000	Drugs For Dementia	February 2009
+14309	55939	89202020	Galantamine 16mg modified-release capsules	Galantamine hydrobromide	16mg	Modified-release capsule	Oral	04110000	Drugs For Dementia	February 2009
+7329	3202	76502020	Galantamine 20mg/5ml oral solution sugar free	Galantamine hydrobromide	4mg/1ml	Oral solution	Oral	04110000	Drugs For Dementia	February 2009
+7361	76387	89204020	Galantamine 24mg modified-release capsules	Galantamine hydrobromide	24mg	Modified-release capsule	Oral	04110000	Drugs For Dementia	February 2009
+10187	7748	85756020	Galantamine 4mg tablets	Galantamine hydrobromide	4mg	Tablet	Oral	04110000	Drugs For Dementia	February 2009
+10255	24186	89200020	Galantamine 8mg modified-release capsules	Galantamine hydrobromide	8mg	Modified-release capsule	Oral	04110000	Drugs For Dementia	February 2009
+11654	22655	85757020	Galantamine 8mg tablets	Galantamine hydrobromide	8mg	Tablet	Oral	04110000	Drugs For Dementia	February 2009
+56709	3516	45236020	Gatalin XL 16mg capsules (Aspire Pharma Ltd)	Galantamine hydrobromide	16mg	Modified-release capsule	Oral	04110000	Drugs For Dementia	August 2013
+55720	4112	45237020	Gatalin XL 24mg capsules (Aspire Pharma Ltd)	Galantamine hydrobromide	24mg	Modified-release capsule	Oral	04110000	Drugs For Dementia	June 2013
+56421	862	45238020	Gatalin XL 8mg capsules (Aspire Pharma Ltd)	Galantamine hydrobromide	8mg	Modified-release capsule	Oral	04110000	Drugs For Dementia	August 2013
+5334	2145	76137020	Reminyl 12mg tablets (Shire Pharmaceuticals Ltd)	Galantamine hydrobromide	12mg	Tablet	Oral	04110000	Drugs For Dementia	February 2009
+9854	641	76135020	Reminyl 4mg tablets (Shire Pharmaceuticals Ltd)	Galantamine hydrobromide	4mg	Tablet	Oral	04110000	Drugs For Dementia	February 2009
+29288	550	86236020	Reminyl 4mg/ml oral solution (Shire Pharmaceuticals Ltd)	Galantamine hydrobromide	4mg/1ml	Oral solution	Oral	04110000	Drugs For Dementia	February 2009
+18062	1759	76136020	Reminyl 8mg tablets (Shire Pharmaceuticals Ltd)	Galantamine hydrobromide	8mg	Tablet	Oral	04110000	Drugs For Dementia	February 2009
+20140	4328	89208020	Reminyl XL 16mg capsules (Shire Pharmaceuticals Ltd)	Galantamine hydrobromide	16mg	Modified-release capsule	Oral	04110000	Drugs For Dementia	February 2009
+24088	7961	89210020	Reminyl XL 24mg capsules (Shire Pharmaceuticals Ltd)	Galantamine hydrobromide	24mg	Modified-release capsule	Oral	04110000	Drugs For Dementia	February 2009
+18587	2236	89206020	Reminyl XL 8mg capsules (Shire Pharmaceuticals Ltd)	Galantamine hydrobromide	8mg	Modified-release capsule	Oral	04110000	Drugs For Dementia	February 2009
+57139	0	10541020	Ebixa 10mg tablets (DE Pharmaceuticals)	Memantine hydrochloride	10mg	Tablet	Oral	04110000	Drugs For Dementia	September 2013
+18800	3500	84771020	Ebixa 10mg tablets (Lundbeck Ltd)	Memantine hydrochloride	10mg	Tablet	Oral	04110000	Drugs For Dementia	February 2009
+39363	1324	95627020	Ebixa 20mg tablets (Lundbeck Ltd)	Memantine hydrochloride	20mg	Tablet	Oral	04110000	Drugs For Dementia	April 2009
+9966	831	55435020	Ebixa 5mg/0.5ml pump actuation oral solution (Lundbeck Ltd)	Memantine hydrochloride	10mg/1ml	Oral solution	Oral	04110000	Drugs For Dementia	February 2009
+39362	872	95639020	Ebixa tablets treatment initiation pack (Lundbeck Ltd)	Memantine Hydrochloride	5mg+10mg+15mg+20mg	Not applicable	Route of administration not applicable	04110000	Drugs For Dementia	April 2009
+6225	125146	80100020	Memantine 10mg tablets	Memantine hydrochloride	10mg	Tablet	Oral	04110000	Drugs For Dementia	February 2009
+11837	14118	80102020	Memantine 10mg/ml oral solution sugar free	Memantine hydrochloride	10mg/1ml	Oral solution	Oral	04110000	Drugs For Dementia	February 2009
+39240	132469	95625020	Memantine 20mg tablets	Memantine hydrochloride	20mg	Tablet	Oral	04110000	Drugs For Dementia	April 2009
+38976	661	95635020	Memantine 5mg+10mg+15mg+20mg Tablet	Memantine Hydrochloride	5mg+10mg+15mg+20mg	Tablet	Oral	04110000	Drugs For Dementia	February 2009
+11546	848	80919020	Exelon 1.5mg capsules (Novartis Pharmaceuticals UK Ltd)	Rivastigmine hydrogen tartrate	1.5mg	Capsule	Oral	04110000	Drugs For Dementia	February 2009
+58937	3	16263021	Exelon 13.3mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd)	Rivastigmine	13.3mg/24hour	Transdermal patch	Transdermal	04110000	Drugs For Dementia	February 2014
+18556	80	77547020	Exelon 2mg/ml oral solution (Novartis Pharmaceuticals UK Ltd)	Rivastigmine hydrogen tartrate	2mg/1ml	Oral solution	Oral	04110000	Drugs For Dementia	February 2009
+11716	1004	80920020	Exelon 3mg capsules (Novartis Pharmaceuticals UK Ltd)	Rivastigmine hydrogen tartrate	3mg	Capsule	Oral	04110000	Drugs For Dementia	February 2009
+20404	490	80921020	Exelon 4.5mg capsules (Novartis Pharmaceuticals UK Ltd)	Rivastigmine hydrogen tartrate	4.5mg	Capsule	Oral	04110000	Drugs For Dementia	February 2009
+37444	850	94174020	Exelon 4.6mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd)	Rivastigmine	4.6mg/24hour	Transdermal patch	Transdermal	04110000	Drugs For Dementia	February 2009
+5616	565	80912020	Exelon 6mg capsules (Novartis Pharmaceuticals UK Ltd)	Rivastigmine hydrogen tartrate	6mg	Capsule	Oral	04110000	Drugs For Dementia	February 2009
+37957	3841	94176020	Exelon 9.5mg/24hours transdermal patches (Novartis Pharmaceuticals UK Ltd)	Rivastigmine	9.5mg/24hour	Transdermal patch	Transdermal	04110000	Drugs For Dementia	February 2009
+4597	36969	58075020	Rivastigmine 1.5mg capsules	Rivastigmine hydrogen tartrate	1.5mg	Capsule	Oral	04110000	Drugs For Dementia	February 2009
+56631	806	16262021	Rivastigmine 13.3mg/24hours transdermal patches	Rivastigmine	13.3mg/24hour	Transdermal patch	Transdermal	04110000	Drugs For Dementia	August 2013
+53882	337	43884020	Rivastigmine 2mg/ml oral solution	Rivastigmine hydrogen tartrate	2mg/1ml	Oral solution	Oral	04110000	Drugs For Dementia	February 2013
+11827	1918	77544020	Rivastigmine 2mg/ml oral solution sugar free	Rivastigmine hydrogen tartrate	2mg/1ml	Oral solution	Oral	04110000	Drugs For Dementia	February 2009
+11751	46824	58076020	Rivastigmine 3mg capsules	Rivastigmine hydrogen tartrate	3mg	Capsule	Oral	04110000	Drugs For Dementia	February 2009
+56771	0	41393020	Rivastigmine 3mg capsules (Dr Reddy's Laboratories (UK) Ltd)	Rivastigmine hydrogen tartrate	3mg	Capsule	Oral	04110000	Drugs For Dementia	August 2013
+11752	19820	58077020	Rivastigmine 4.5mg capsules	Rivastigmine hydrogen tartrate	4.5mg	Capsule	Oral	04110000	Drugs For Dementia	February 2009
+36976	22158	94170020	Rivastigmine 4.6mg/24hours transdermal patches	Rivastigmine	4.6mg/24hour	Transdermal patch	Transdermal	04110000	Drugs For Dementia	February 2009
+9786	19805	76950020	Rivastigmine 6mg capsules	Rivastigmine hydrogen tartrate	6mg	Capsule	Oral	04110000	Drugs For Dementia	February 2009
+37132	39603	94172020	Rivastigmine 9.5mg/24hours transdermal patches	Rivastigmine	9.5mg/24hour	Transdermal patch	Transdermal	04110000	Drugs For Dementia	February 2009
+57627	12	16508021	Erastig 4.6mg/24hours transdermal patches (Teva UK Ltd)	Rivastigmine	4.6mg/24hour	Transdermal patch	Transdermal	04110000	Drugs For Dementia	October 2013
+57171	20	16510021	Erastig 9.5mg/24hours transdermal patches (Teva UK Ltd)	Rivastigmine	9.5mg/24hour	Transdermal patch	Transdermal	04110000	Drugs For Dementia	September 2013
+58780	59	15913021	Voleze 9.5mg/24hours transdermal patches (Focus Pharmaceuticals Ltd)	Rivastigmine	9.5mg/24hour	Transdermal patch	Transdermal	04110000	Drugs For Dementia	February 2014
+48015	28	00321021	Galsya XL 24mg capsules (Consilient Health Ltd)	Galantamine hydrobromide	24mg	Modified-release capsule	Oral	04110000	Drugs For Dementia	November 2012
+48482	7	00317021	Galsya XL 8mg capsules (Consilient Health Ltd)	Galantamine hydrobromide	8mg	Modified-release capsule	Oral	04110000	Drugs For Dementia	January 2013
+63405	20	00319021	Galsya XL 16mg capsules (Consilient Health Ltd)	Galantamine hydrobromide	16mg	Modified-release capsule	Oral	04110000	Drugs For Dementia	June 2015
+53842	0	05435020	Aricept 5mg tablets (Waymade Healthcare Plc)	Donepezil hydrochloride	5mg	Tablet	Oral	04110000	Drugs For Dementia	February 2013
+55928	0	05472020	Exelon 4.5mg capsules (Waymade Healthcare Plc)	Rivastigmine hydrogen tartrate	4.5mg	Capsule	Oral	04110000	Drugs For Dementia	August 2013

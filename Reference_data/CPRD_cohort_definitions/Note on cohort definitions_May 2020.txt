@@ -1,0 +1,26 @@
+Hip Fracture
+Must have ICD-10 code for hip fracture as a primary diagnosis. Operation codes used to subsequently refine the cohort to those with a hip replacement (partial/total) or osteopinning.
+
+
+Heart failure + T2 diabetes
+Must have ICD-10 code for heart failure as a primary diagnosis AND an ICD-10 code for T2 diabetes in the index hospitalisation
+
+
+
+Additional heart cohorts:
+
+Heart failure overall
+Must have ICD-10 code for heart failure as a primary diagnosis
+
+Heart failure + COPD + T2 diabetes
+Must have ICD-10 code for heart failure as a primary diagnosis AND an ICD-10 code for T2 diabetes in the index hospitalisation AND an ICD-10 code for COPD in the index hospitalisation
+
+Heart failure without COPD or T2 diabetes
+Must have ICD-10 code for heart failure as a primary diagnosis WITHOUT any ICD-10 code for T2 diabetes in the index hospitalisation OR any ICD-10 code for COPD in the index hospitalisation
+
+
+
+Unused cohort:
+
+Dementia
+Must have Read code for dementia diagnosis AND/OR Gemscript code for dementia therapy
