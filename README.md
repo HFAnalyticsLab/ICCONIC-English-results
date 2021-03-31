@@ -110,6 +110,7 @@ Excluded R scripts:
 
 This project is licensed under the [MIT License](LICENSE).
 
+The reference data in folder [NHSBSA_dm+d](Reference_data/NHSBSA_dm+d) contains public sector information licensed under the Open Government Licence v3.0.
 
 
 ## Team members - please feel free to get in touch
