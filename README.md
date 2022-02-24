@@ -1,10 +1,15 @@
 # International Collaborative on Costs, Outcomes and Needs in Care (ICCONIC) - Results for England 2020
 ## An analysis of specific cohorts of patients with high healthcare needs and associated costs
 
-#### Project Status: Unpublished
-This analysis has been submitted for publication in an academic journal and we'll provide links to the published articles when available.
+#### Project Status: Completed
+This analysis has now been published in a special issue of the journal Health Services Research. https://onlinelibrary.wiley.com/toc/14756773/2021/56/S3. 
+The English analysis is included in the following open access articles:
 
+On heart failure and diabetes spending and utlisation: https://onlinelibrary.wiley.com/doi/10.1111/1475-6773.13708
+On hip fracture spending and utlisation: https://onlinelibrary.wiley.com/doi/10.1111/1475-6773.13739
+On outcomes for both patient groups: https://onlinelibrary.wiley.com/doi/10.1111/1475-6773.13735
 
+The analysis also features in a Health Foundation long read comparing the English results with the results from the other OECD countries https://www.health.org.uk/publications/long-reads/caring-for-older-patients-with-complex-needs
 
 ## Project Description
 
